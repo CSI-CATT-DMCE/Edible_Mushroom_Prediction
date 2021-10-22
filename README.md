@@ -36,5 +36,9 @@
 ### Part 5 
   ### Evaluate model accuracy 
   
+## Maintainer
+ - [Tejas H](https://github.com/hasabnistejas)
+ - [Atharv S](https://github.com/Atharv157/Atharv157)
+  
   
   
